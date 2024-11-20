@@ -17,7 +17,6 @@ type VideoCardProps = {
   }: VideoCardProps) {
     return (
       <div className="max-w-sm rounded overflow-hidden shadow-lg">
-        {/* Using Next.js Image component for better optimization */}
         <Image
           src={thumbnail}
           alt={title}
