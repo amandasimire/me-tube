@@ -11,7 +11,7 @@ const mockVideos = [
   {
     title: 'How I earn $3000 monthly',
     channel: 'KaitlynLu',
-    views: 3000,
+    views: 4000,
     thumbnail: '/images/income.png',
   },
   {
